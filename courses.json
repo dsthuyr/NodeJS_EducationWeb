@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "6255542a1a2ccd395516a97b"
+  },
+  "name": "HTML Full Course - Build a Website Tutorial",
+  "description": "Learn the basics of HTML5 and web development in this awesome course for beginners. ",
+  "img": "https://img.youtube.com/vi/pQN-pnXPaVg/0.jpg",
+  "videoId": "pQN-pnXPaVg",
+  "level": "Normal",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649759274374"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649759274374"
+    }
+  },
+  "slug": "html-full-course-build-a-website-tutorial",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625554591a2ccd395516a981"
+  },
+  "name": "Learn ASP.NET Core 3.1 - Full Course for Beginners",
+  "description": "After learning about the history and basics of ASP.NET Core, you will learn how to build a small book list application with CRUD operations.",
+  "img": "https://img.youtube.com/vi/C5cnZ-gZy2I/0.jpg",
+  "videoId": "C5cnZ-gZy2I",
+  "level": "Hard",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649759321153"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649759965902"
+    }
+  },
+  "slug": "introduction-to-html-or-or-basic-html-elements-or-or-part-2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625554bc1a2ccd395516a997"
+  },
+  "name": "React JS Crash Course",
+  "description": "Get started with React in this crash course. We will be building a task tracker app and look at components, props, state, hooks, working with an API and more.",
+  "img": "https://img.youtube.com/vi/w7ejDZ8SWv8/0.jpg",
+  "videoId": "w7ejDZ8SWv8",
+  "level": "Hard",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649759420537"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649759456654"
+    }
+  },
+  "slug": "react-js-crash-course",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625555361a2ccd395516a9b5"
+  },
+  "name": "Node.js / Express Course - Build 4 Projects",
+  "description": "In this course, you will improve your skills by building four projects using Node and Express.",
+  "img": "https://img.youtube.com/vi/qwfE7fSVaZM/0.jpg",
+  "videoId": "qwfE7fSVaZM",
+  "level": "Hard",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649759542778"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649759542778"
+    }
+  },
+  "slug": "node-js-express-course-build-4-projects",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625555d61a2ccd395516a9c8"
+  },
+  "name": "Learn JavaScript - Full Course for Beginners",
+  "description": "This complete JavaScript tutorial for beginners will teach you everything you need to know to get started with the JavaScript programming language.\r\n",
+  "img": "https://img.youtube.com/vi/PkZNo7MFNFg/0.jpg",
+  "videoId": "PkZNo7MFNFg",
+  "level": "Normal",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649759702828"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649759702828"
+    }
+  },
+  "slug": "learn-javascript-full-course-for-beginners",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6255566f1a2ccd395516a9ce"
+  },
+  "name": "CSS Tutorial - Zero to Hero (Complete Course)",
+  "description": "Learn CSS in this full course for beginners. CSS, or Cascading Style Sheet, is responsible for the styling and looks of a website. ",
+  "img": "https://img.youtube.com/vi/1Rs2ND1ryYc/0.jpg",
+  "videoId": "1Rs2ND1ryYc",
+  "level": "Normal",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649759855353"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649760083869"
+    }
+  },
+  "slug": "css-tutorial-zero-to-hero-complete-course",
+  "__v": 0
+}]

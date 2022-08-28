@@ -1,0 +1,17 @@
+<div class="row mt-4">
+    {{#each courses}}
+    <div class="col-sm-6 col-lg-4 pb-4">
+        <ul class="course_list">
+            <div class="card" style="width: 20rem;">
+                <a href="/course/{{this.slug}}"><img src={{this.img}} class="card-img-top" alt="img-html"></a>
+                <div class="card-body">
+                    <a href="/course/{{this.slug}}" style="text-decoration: none; color:black;"><h4 class="card-title">{{this.name}}</h4></a>
+                    <p class="card-text">{{this.description}}</p>
+                    <a href="/course/{{this.slug}}" class="btn btn-primary" style="width: 100%;">Study Now</a>
+                </div>
+            </div>
+          
+        </ul>
+    </div>
+      {{/each}}
+</div>
